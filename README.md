@@ -7,6 +7,8 @@
   <a href="https://abhisek11.github.io"><img src="https://img.shields.io/badge/Website-abhisek11.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhisek-singh-952738b8/"><img src="https://img.shields.io/badge/LinkedIn-Abhisek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:raizadaabhi11@gmail.com"><img src="https://img.shields.io/badge/Email-raizadaabhi11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@developerpanther"><img src="https://img.shields.io/badge/YouTube-@developerpanther-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/developerpanther/"><img src="https://img.shields.io/badge/Instagram-@developerpanther-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://roadlink.co.in"><img src="https://img.shields.io/badge/RoadLink-roadlink.co.in-22c55e?style=for-the-badge"/></a>
 </p>
 
@@ -28,6 +30,25 @@
   <img src="https://img.shields.io/badge/Engineering%20Manager-PayMob-0ea5e9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Technical%20Lead-Verizon%20via%20GlobalLogic-CD040B?style=for-the-badge&logo=verizon&logoColor=white"/>
 </p>
+
+## 📜 Certifications
+<p align="center">
+  <a href="https://glx.globallogic.com/certify/2e5fa4db-442a-4d0d-82e2-34dc8046d701"><img src="https://img.shields.io/badge/GlobalLogic-AI%20202%20Certified%20AI%20Professional%20(GenAI)%20·%202026-0A66C2?style=flat-square"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/611aa74c-088a-4b7b-8bff-bbec7b773612/badges/6533714"><img src="https://img.shields.io/badge/Google-Introduction%20to%20Generative%20AI%20·%202023-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
+  <a href="https://www.educative.io/verify-certificate/0IFX2BAGVT"><img src="https://img.shields.io/badge/Educative-Generating%20Music%20with%20AI%20·%202026-5553FF?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/learning/certificates/1a58d6c778b69ea2b58927b4eee697d6937887f4fa7da9c5c651a9586bc78e7b"><img src="https://img.shields.io/badge/LinkedIn%20Learning-AI--First%20Product%20Leader%20·%202022-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Ethics%20in%20the%20Age%20of%20GenAI%20·%202024-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.udemy.com/certificate/UC-b8759b16-03a4-4539-8671-f2003074e824/"><img src="https://img.shields.io/badge/Udemy-Terraform%2C%20AWS%20%26%20Docker%20DevOps-A435F0?style=flat-square&logo=udemy&logoColor=white"/></a>
+  <a href="http://ude.my/UC-be8679eb-7339-4d21-ae53-485352905c40"><img src="https://img.shields.io/badge/Udemy-Python%20%26%20Django%20REST%20API%20(Advanced)%20·%202020-A435F0?style=flat-square&logo=udemy&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/certificates/f45e63674810"><img src="https://img.shields.io/badge/HackerRank-REST%20API%20(Intermediate)%20·%202020-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/certificates/65891955f32e"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20%2B%20Python%20(Basic)%20·%202020-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+## 🏁 Hackathons
+- **Google Cloud AI Builder Cup 2026 (JAPAC)**, run by Google Cloud with Hack2skill. Confirmed participant, Sep–Oct 2026 (in progress).
+
+## 🐆 Developer Panther
+My developer channel covers **system design in Hindi** (how Google Maps, Swiggy, Zomato, IRCTC, UPI and WhatsApp work), the **#121DaysOfPython** Shorts series, and a free **Python for AI** course in Hindi. Watch on [YouTube](https://www.youtube.com/@developerpanther) and follow on [Instagram](https://www.instagram.com/developerpanther/).
 
 ## Tech stack
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,go,java,ts,dart,fastapi,django,flutter,postgres,redis,kafka,aws,docker,kubernetes,githubactions,grafana,linux,git&perline=9&theme=dark"/></a></p>
