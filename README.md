@@ -96,6 +96,21 @@ My developer channel covers **system design in Hindi** (how Google Maps, Swiggy,
 | 🔀 **[llm-harness](https://github.com/abhisek11/llm-harness)** | TypeScript harness that routes LLM calls across free tiers (Groq, Gemini, GLM, Cerebras, OpenRouter). |
 | 🔗 **[ai-live-smart-payment-link-gen](https://github.com/abhisek11/ai-live-smart-payment-link-gen)** | Python service for AI-generated payment links. |
 
+## 🧰 Project showcase
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| 🛡️ **BrandSecure: DMARC & brand-impersonation protection** | Backend for an email-security SaaS (SecureYourInbox) that helps brands stop spoofing and impersonation. It runs DNS-based DMARC, SPF and RUA reporting checks for customer domains, handles report ingestion and admin tooling, and processes work asynchronously. | Python, Django, DRF, Celery, Redis, Postgres, AWS, Docker, Nginx, Prometheus | Private |
+| 💳 **Merchant payments platform (PayMob)** | Backend work on a merchant payments app: mobile-wallet payments, payment links (digital invoices), Tap-on-Phone SoftPOS card acceptance, merchant KYC onboarding, and risk and limit checks for fraud control. | Python, Django, DRF, JWT, Postgres, AWS, Docker | Employer work |
+| 🤖 **AgentPay** | Payments infrastructure for AI agents: virtual-card issuance, an authorization engine, a policy engine, an immutable ledger and human-in-the-loop approvals. | Go, Postgres, Python | Private |
+| 🛡️ **Membra** | Open-source security layer for AI agents. It sits behind an OpenAI-compatible gateway, blocks prompt injection and data leaks, and guards agent tool calls. | Python, Docker, OpenAI | [repo](https://github.com/abhisek11/membra) |
+| 🔀 **llm-harness** | Local OpenAI-compatible proxy that routes across free LLM tiers (Groq, Gemini, GLM, Cerebras, OpenRouter) with automatic fallback, plus a React dashboard. | TypeScript, React | [repo](https://github.com/abhisek11/llm-harness) |
+| 🔗 **Smart Payment Link Generator** | Turns a merchant's plain-English request into a schema-validated payment-link payload (OpenAI strict structured outputs) and a ready-to-send WhatsApp message. | Python, OpenAI | [repo](https://github.com/abhisek11/ai-live-smart-payment-link-gen) |
+| 🕸️ **Graph RAG over documents** | Builds a knowledge graph from documents in Neo4j and queries it for graph-grounded retrieval. | Python, Neo4j | Private |
+| 🗄️ **DbChat: AI SQL assistant** | Chat with a SQL database in plain English, using a LangChain SQL agent on Groq with a Streamlit UI. | Python, LangChain, Streamlit | [repo](https://github.com/abhisek11/AI-agents) |
+| 🎬 **Developer Panther video pipeline** | Automated pipeline for animated tech-explainer videos for YouTube and Instagram: Remotion (React) scenes, edge-tts voiceover and HTML thumbnails. | TypeScript, React, Remotion | Private |
+| 🍔 **FoodMood** | Food-delivery backend in Django with restaurants, customers, drivers, meals and orders, social OAuth login, and Heroku deployment. | Python, Django, Postgres | [repo](https://github.com/abhisek11/foodmood) |
+| 📺 **KidsZone** | Video-streaming app for kids (per Abhisek; code not located yet). | — | per Abhisek |
+
 ## 📊 GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisek11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
